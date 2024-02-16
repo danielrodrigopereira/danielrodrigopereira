@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi everyone👋
+## My name is Daniel and im a brazilian🇧🇷 developer👨🏻‍💻 living in Portugal🇵🇹
 
+Here are some information about my carrier:
+
+- 🔭 I’m currently working on white label banking at [Vass Company](https://vasscompany.com/en/) :wink:;
 <!--
 **danielrodrigopereira/danielrodrigopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
